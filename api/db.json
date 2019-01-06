@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "test stream",
+      "description": "test one.1",
+      "id": 1
+    },
+    {
+      "title": "test22",
+      "description": "21 asd ",
+      "id": 2
+    },
+    {
+      "title": "test22",
+      "description": "21 asd ",
+      "id": 3
+    },
+    {
+      "title": "I created",
+      "description": "This stream",
+      "userId": "110455983383821381050",
+      "id": 4
+    },
+    {
+      "title": "prog",
+      "description": "test",
+      "userId": "110455983383821381050",
+      "id": 5
+    }
+  ]
+}
